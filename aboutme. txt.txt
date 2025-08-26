@@ -1,0 +1,4 @@
+Y.Geetha Chandra
+3rd BCA 2
+It serves as a centralized platform for hosting code repositories, making projects easily accessible to team members and collaborators from anywhere with an internet connection.
+Integrated issue tracking helps in managing tasks, reporting bugs, and tracking progress within a project. Features like project boards and milestones aid in overall project management.
